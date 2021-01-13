@@ -4,6 +4,13 @@ Boilerplate for CodeLouisville Javascript Track
 ## Getting Started
 This repository is optimized for development using the VS-Code IDE. This editor can be downloaded for free from https://code.visualstudio.com/.
 
+### Cloning the Repository
+Ensure you have git installed <https://git-scm.com/>, and that you do not receive any errors when executing `git --version` in a command line or terminal window.
+
+From your command line or terminal window, execute the following commands in a directory you want the repository to be downloaded to.
+
+`git clone https://github.com/Daeluse/codelou-javascript-boilerplate.git`
+
 ## Running the Application
 Upon first loading the folder into VSCode, you will be prompted to install recommended plugins. Be sure to click 'install' to allow the required extensions to be added to your IDE.
 
