@@ -1,7 +1,11 @@
 /**
- * This is the main JavaScript entry for your application.
+ * This is the main TypeScript entry for your application.
  */
 
- let foo: string = 'foo';
+const title: string = 'Hello World!';
 
- alert(foo);
+const element: HTMLParagraphElement = document.createElement('p');
+
+element.innerText = title;
+
+document.getElementById('main').append(element);
